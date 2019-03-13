@@ -1,0 +1,24 @@
+.chatcolor-red {
+    background-color: #ffb7c3;
+    padding: 10px;
+    border-radius: 100px;
+    border-bottom-right-radius: 10px;
+    margin-top: 6px;
+}
+
+.chatcolor-blue {
+    background-color: #c9e1ff;
+    padding: 10px;
+    border-radius: 100px;
+    border-bottom-left-radius: 10px;
+    margin-top: 6px;
+}
+
+.card-body {
+	overflow: auto;
+	height: 320px;
+}
+
+.chat-body {
+    margin-top: 10px;
+}
